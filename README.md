@@ -4,7 +4,7 @@ RESTful API Node Express Mongoose Example
 
 The project builds RESTful APIs using Node.js, Express and Mongoose.
 
-##Manual Installation
+## Manual Installation
 
 Clone the repo:
 ```
